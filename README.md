@@ -200,6 +200,7 @@ Após encontrar o triângulo `ABP`, a recursão é aplicada para dois novos conj
 (as duas novas arestas do triângulo formado). Pontos internos ao triângulo são descartados.
 
 ![Diagrama do algoritmo](assets/screenshots/algorithm.png)
+
 Fonte: https://medium.com/@harshitsikchi/convex-hulls-explained-baab662c4e94
 
 ### Complexidade
